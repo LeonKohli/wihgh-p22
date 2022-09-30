@@ -1,0 +1,30 @@
+================
+ September 2022
+================
+
+
+.. list-table:: Frozen Delights!
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 21.09
+     - Energiepauschale in Diskussion
+   * - 22.09
+     - Emacs
+       ; PayPal Geld senden
+   * - 23.09
+     - VS-Codium   
+   * - 26.09
+     - Projektmanagement
+   * - 27.09
+     - Prüfungsaufgaben (zeitlicher Ablauf)
+   * - 28.09
+     - Dokumentationstools verglichen
+   * - 29.09
+     - agiles Projektmanagement für Prüfungsaufgaben
+   * - 30.09
+     - Brainwriting
+     
+
