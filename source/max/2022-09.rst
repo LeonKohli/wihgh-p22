@@ -1,0 +1,29 @@
+================
+ September 2022
+================
+
+.. list-table:: September
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 21.09
+     - Emacs ist kein Programm das ich regelmäßig nutzen werde, wenn möglich :)
+   * - 22.09
+     - Logos, Icon in den Tabs(Favicon)
+       
+       1 Kasten Mate reicht nicht für 1 Woche
+   * - 23.09
+     - Videos in HTML einbetten
+   * - 26.09
+     - Projektmanagment und seine Phasen/Inhalte
+   * - 27.09
+     - Netzplantechnnik + Projektdauer berechnen
+   * - 28.09
+     - Attribute in HTML, Positionierung in HTML
+   * - 29.09
+     - Agiles PM
+   * - 30.09
+     - Prozessketten 
+       
