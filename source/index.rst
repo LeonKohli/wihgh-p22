@@ -1,18 +1,29 @@
-.. wihgh-p22 documentation master file, created by
-   sphinx-quickstart on Fri Sep 30 14:10:35 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===================================== 
+wihgh P22
+===================================== 
 
-Welcome to wihgh-p22's documentation!
-=====================================
+.. sidebar:: P22
+
+      .. image:: ./img/p22matelogo.jpg
+      
+      
+      
+   
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   jacob/index
+   janneck/index
+   lennard/index
+   william/index
+   max/index
+   leon/index
+   luca/index
+	     
 
-
-Indices and tables
+Anhang
 ==================
 
 * :ref:`genindex`
