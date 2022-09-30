@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'wihgh-p22'
-copyright = '2022, p22'
-author = 'p22'
+copyright = '2022, zit-p22'
+author = 'Luca Plamper' , 'Max Fischer' , 'Janneck Lehmann' , 'Leon Kohlhaußen' , 'Jacob Hanke' , 'William Weber' , 'Lennard Lüben'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
@@ -24,5 +24,5 @@ language = 'de'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'furo'
 html_static_path = ['_static']
