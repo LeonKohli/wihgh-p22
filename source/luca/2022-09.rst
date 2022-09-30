@@ -1,0 +1,25 @@
+==============
+September 2022
+==============
+
+.. list-table:: September
+
+
+   * + Datum
+     + Anmerkung
+   * + 21.09
+     + Emacs einstieg
+   * + 22.09
+     + Logo
+   * + 23.09
+     + Zeal Videoeinbindung 
+   * + 26.09
+     + Projektmanagment Grundlagen 
+   * + 27.09
+     + Stakeholder- & Risikoanalyse gelernt
+   * + 28.09
+     + klassiches Projektmanagment Grundlagen
+   * + 29.09
+     + agiles Projektmanagment Grundlagen gelernt
+   * + 30.09
+     + Brainwriting
