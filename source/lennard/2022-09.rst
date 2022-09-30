@@ -1,0 +1,26 @@
+================
+ Lennard
+================
+
+.. list-table:: September
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 21.09
+     - Einstieg HTML Web-Enwicklung - Emacs
+   * - 22.09
+     - Emacs kennenlernen
+   * - 23.09
+     - VS Codium kennenlernen 
+   * - 26.09
+     - Grundlagen traditionelles Projektmanagement
+   * - 27.09
+     - Netzpläne
+   * - 28.09
+     - Entscheidungsmatrix
+   * - 29.09
+     - agiles Projektmanagement
+   * - 30.09
+     - Auswertung Brainwriting und Wiederholung  
