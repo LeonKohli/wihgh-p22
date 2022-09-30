@@ -11,7 +11,7 @@ wihgh P22
    
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    jacob/index
@@ -27,5 +27,4 @@ Anhang
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
