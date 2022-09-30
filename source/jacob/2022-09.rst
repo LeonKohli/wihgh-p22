@@ -1,0 +1,52 @@
+================
+ September 2022
+================
+
+.. list-table:: September
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 21.09
+     - Emacs lässt mich manchmal verzweifeln
+   * - 22.09
+     - Logos und Favicon
+       
+       Mate ist heiliges Wasser, was nicht für eine Woche reicht.
+   * - 23.09
+     - VSCode ist besser als Emacs 
+   * - 26.09
+     - Projektmanagement & Phasen kennen gelernt
+       
+       Aufgabe zu SMARTe Ziele
+       
+       MindManager Analyse Funktion
+       
+       Risikocheckliste kennengelernt
+   * - 27.09
+     - Kritischerweg im Projektmanagement kennengelernt und angewandt
+       
+       Übungsaufgabe Projektmanagement Netzplan erstellt
+       
+       Projektmanagement im MindManager
+       
+       Aufgabe zum Projektmanagementim MindManager
+   * - 28.09
+     - GIT Aufgaben fertiggestellt 
+       
+       Entscheidungsmatrix erstellen
+   * - 29.09
+     - agiles Projektmanagement kennengelernt
+       
+       agiles Projektmanagement an einem Beispiel angewandt
+       
+       Aufgaben zu agilem Projektmanagement durchgeführt
+       
+       Spiele zum agilem Projektmanagement gespielt
+   * - 30.09
+     - Brainwriting übung zu den Spielen von gestern
+       
+       Entscheidungsmatrix Übung kontrolliert
+
+       Netzpläne erstellt und erklärt
