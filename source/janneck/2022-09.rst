@@ -1,0 +1,27 @@
+===============
+ September 2022
+===============
+
+
+.. list-table:: September
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 21.09
+     - Mit Git und Python Modulen eine Dokumentaton erstellen.
+   * - 22.09
+     - Abeit mit Emacs in rst Dateien
+   * - 23.09
+     - Export von Docsets nach Zeal
+   * - 26.09
+     - Projektmanagement Grundlagen + Entscheidungsmatrix
+   * - 27.09
+     - Projektmanagement Grundlagen mit Netzplänen
+   * - 28.08
+     - Vergleich Dokumentationsarten
+   * - 29.09
+     - Projektmanagement Gundlagen mit SCRUM
+   * - 30.09
+     -
