@@ -4,3 +4,10 @@ env/*
 .vscode
 .git
 .env
+altes_lager
+*.exe
+*#
+*~
+\.
+env
+MeineDoku.docset
