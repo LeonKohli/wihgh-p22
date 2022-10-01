@@ -1,4 +1,4 @@
-#!C:\home\dokus\wihgh-p22\env\Scripts\python.exe
+#!C:\home\wihgh-p22\env\Scripts\python.exe
 
 # $Id: rst2odt.py 8994 2022-01-29 16:28:17Z milde $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

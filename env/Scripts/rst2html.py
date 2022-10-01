@@ -1,4 +1,4 @@
-#!C:\home\dokus\wihgh-p22\env\Scripts\python.exe
+#!C:\home\wihgh-p22\env\Scripts\python.exe
 
 # $Id: rst2html.py 8927 2022-01-03 23:50:05Z milde $
 # Author: David Goodger <goodger@python.org>

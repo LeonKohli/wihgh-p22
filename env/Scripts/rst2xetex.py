@@ -1,4 +1,4 @@
-#!C:\home\dokus\wihgh-p22\env\Scripts\python.exe
+#!C:\home\wihgh-p22\env\Scripts\python.exe
 
 # $Id: rst2xetex.py 8956 2022-01-20 10:11:44Z milde $
 # Author: Guenter Milde

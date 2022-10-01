@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\home\dokus\wihgh-p22\env"
+VIRTUAL_ENV="C:\home\wihgh-p22\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

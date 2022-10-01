@@ -1,4 +1,4 @@
-#!C:\home\dokus\wihgh-p22\env\Scripts\python.exe
+#!C:\home\wihgh-p22\env\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'livereload==2.6.3','console_scripts','livereload'
 import re
 import sys

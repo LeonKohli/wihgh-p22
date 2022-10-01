@@ -1,4 +1,4 @@
-#!C:\home\dokus\wihgh-p22\env\Scripts\python.exe
+#!C:\home\wihgh-p22\env\Scripts\python.exe
 
 # Author:
 # Contact: grubert@users.sf.net
