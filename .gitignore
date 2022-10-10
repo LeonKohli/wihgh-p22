@@ -13,3 +13,4 @@ MeineDoku.docset
 .vscode
 .vscode/*
 make.bat
+Makefile
