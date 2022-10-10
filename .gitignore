@@ -12,3 +12,4 @@ env
 MeineDoku.docset
 .vscode
 .vscode/*
+make.bat
