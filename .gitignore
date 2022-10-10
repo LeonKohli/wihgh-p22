@@ -1,7 +1,6 @@
 build/*
 .docset
 env/*
-.vscode
 .git
 .env
 altes_lager
@@ -11,3 +10,5 @@ altes_lager
 \.
 env
 MeineDoku.docset
+.vscode
+.vscode/*
