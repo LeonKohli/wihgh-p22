@@ -1,0 +1,14 @@
+================
+ Oktober 2022
+================
+
+.. list-table:: Oktober
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 10.10
+     - Ruby angeschaut
+   * - 11.10
+     - Ausstehend 
