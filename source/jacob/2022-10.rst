@@ -10,11 +10,11 @@ Oktober 2022
      - Anmerkung
    * - 10.10
      - Java Grundlagen
-       Java Hamster
-       boolean kennengelernt
-       Bottom-Up-Methode kennengelernt
-       Hamster Aufgaben
+     - Java Hamster
+     - boolean kennengelernt
+     - Bottom-Up-Methode kennengelernt
+     - Hamster Aufgaben
    * - 11.10
-       Hamster Zählschleifen kennengelernt und angewandt
-       Hamster array kennengelernt und angewandt
-       Hamster Aufgaben
+     - Hamster Zählschleifen kennengelernt und angewandt
+     - Hamster array kennengelernt und angewandt
+     - Hamster Aufgaben
