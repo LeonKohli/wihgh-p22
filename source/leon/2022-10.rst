@@ -9,8 +9,8 @@ Oktober 2022
 
    * - 10.10
      - Java Hamster Simulator
-   * -
-     - 
+   * - 11.10
+     - Hyperaktiver Hamster im Kornfeld
    * -
      - 
    * -
