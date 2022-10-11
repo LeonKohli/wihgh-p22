@@ -3,7 +3,7 @@ Oktober 2022
 ============
 
 
-.. list-table:: September
+.. list-table:: Oktober 
    :widths: 10 80
    :header-rows: 1
 
