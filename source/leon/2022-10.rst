@@ -7,8 +7,8 @@ Oktober 2022
    :widths: 10 80
    :header-rows: 1
 
-   * -
-     - 
+   * - 10.10
+     - Java Hamster Simulator
    * -
      - 
    * -

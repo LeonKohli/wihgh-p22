@@ -11,7 +11,7 @@ copyright = '2022, zit-p22'
 author = 'Luca, Max, Janneck, Leon, Jacob, William, Lennard'
 release = '1'
 html_title = "Tagesberichte P22"
-html_favicon = '_static/favicon.ico'
+html_favicon = '_static/cat-space.gif'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
