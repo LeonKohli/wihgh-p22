@@ -11,4 +11,7 @@
    * - 10.10
      - Ruby angeschaut
    * - 11.10
-     - Ausstehend 
+     - Java-Hamster ist langweilig
+       Rekursion
+   * - 12.10
+     - Arraylists, Zelluläre-Automaten (also was das ist)
