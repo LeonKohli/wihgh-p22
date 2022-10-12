@@ -1,0 +1,20 @@
+============
+Oktober 2022
+============
+
+.. list-table:: Oktober
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 10.10
+     - Java Grundlagen
+     - Java Hamster
+     - boolean kennengelernt
+     - Bottom-Up-Methode kennengelernt
+     - Hamster Aufgaben
+   * - 11.10
+     - Hamster Zählschleifen kennengelernt und angewandt
+     - Hamster array kennengelernt und angewandt
+     - Hamster Aufgaben
