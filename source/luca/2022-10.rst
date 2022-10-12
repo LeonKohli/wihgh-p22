@@ -6,3 +6,5 @@
       + Java-Hamster
     * + 11.10
       + Zählschleifen -> Java-Hamster
+   *  + 12.10
+      + Eclipse kennengelernt
