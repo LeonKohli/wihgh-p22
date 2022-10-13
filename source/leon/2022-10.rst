@@ -13,3 +13,5 @@ Oktober 2022
      - Hyperaktiver Hamster im Kornfeld
    * - 12.10
      - Java in VSCode
+   * - 13.10
+     - Alle Features der GitHub Student Plattform entdeckt
