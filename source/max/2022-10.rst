@@ -15,3 +15,5 @@
        Rekursion
    * - 12.10
      - Arraylists, Zelluläre-Automaten (also was das ist)
+   * - 13.10
+     - "this" in Java
