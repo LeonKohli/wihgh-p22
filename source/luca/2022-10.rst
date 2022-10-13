@@ -8,3 +8,5 @@
       + Zählschleifen -> Java-Hamster
    *  + 12.10
       + Eclipse kennengelernt
+   *  + 13.10
+      + GitHub Copilot in VSC ausprobiert
