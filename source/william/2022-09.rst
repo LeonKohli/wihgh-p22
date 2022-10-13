@@ -26,5 +26,18 @@
      - agiles Projektmanagement für Prüfungsaufgaben
    * - 30.09
      - Brainwriting
+   * - 10.10
+     - Hamster-Java
+   * - 11.10
+     - Hamster-Java und Zählschleifen
+   * - 12.10
+     - Arrays und OOP mit Java und Eclipse/VisualStudioCode
+   * - 13.10
+     - OOP Beispielprogrammierung (LS7) mit Java und Eclipse/VisualStudioCode
+   * - 14.10
+     - 
+   * - 15.10
+     - 
+
      
 
