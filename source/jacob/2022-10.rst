@@ -15,5 +15,26 @@ Oktober 2022
    * - 12.10
      - Einstieg Java Eclipse
    * - 13.10
-     - Objektorientiertes Programmieren in java 
-       
+     - Objektorientiertes Programmieren in java
+   * - 14.10
+     -  
+   * - 17.10
+     - 
+   * - 18.10
+     - 
+   * - 19.10
+     -
+   * - 20.10
+     -
+   * - 21.10
+     -
+   * - 24.10
+     - Server hochholen und aus den Laborgestell bauen 
+   * - 25.10
+     - Server zerlegen
+   * - 26.10
+     - Server bestimmt
+   * - 27.10
+     - Server zusammenbauen
+   * - 28.10
+     - Server Fernsteuern

@@ -1,0 +1,18 @@
+=============
+November 2022
+=============
+
+.. list-table:: November
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 01.11
+     - Server zusammenbauen  
+   * - 02.11
+     - Server einstellen
+   * - 03.11
+     - Server einrichten 
+   * - 04.11
+     - Große Präsentation Server Initialisierung Alpha (SIA) 
