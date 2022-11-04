@@ -17,3 +17,7 @@
      - Arraylists, Zelluläre-Automaten (also was das ist)
    * - 13.10
      - "this" in Java
+   * - 17.10 - 25.10
+     - Krank sein ist langweilig
+   * - 26.10 - 04.11
+     - Zeitmanagement ist wichtig; Die Rolle des Moderators liegt mir ganz gut  
