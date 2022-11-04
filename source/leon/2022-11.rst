@@ -1,0 +1,39 @@
+============
+November 2022
+============
+
+
+.. list-table:: Oktober 
+   :widths: 10 80
+   :header-rows: 1
+
+   * - 1.11
+     - Präsi beginnen
+   * - 2.11
+     - Präsenation vorbereiten
+   * - 3.11
+     - Stress beim Serveraufbau
+   * - 4.11
+     - Alle Features der GitHub Student Plattform entdeckt
+   * - 14.11
+     - Homeoffice
+   * - 17.11
+     - Laptops auseinandergebaut
+   * - 18.11
+     - Weitere ekelhafte Laptops auseinandergebaut
+   * - 21.11
+     - mit den Servern angefangen
+   * - 22.11
+     - Server sind toll
+   * - 23.11
+     - Server machen spaß
+   * - 24.11
+     - Server ausbauen
+   * - 25.11
+     - Server zusammensetzen
+   * - 28.11
+     - Server Server Servern 
+   * - 29.11
+     - Server Remote
+   * - 30.11
+     - internet macht stress

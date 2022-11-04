@@ -21,5 +21,20 @@ Oktober 2022
      - Laptops auseinandergebaut
    * - 18.10
      - Weitere ekelhafte Laptops auseinandergebaut
-
+   * - 21.10
+     - mit den Servern angefangen
+   * - 22.10
+     - Server sind toll
+   * - 23.10
+     - Server machen spaß
+   * - 24.10
+     - Server ausbauen
+   * - 25.10
+     - Server zusammensetzen
+   * - 28.10
+     - Server Server Servern 
+   * - 29.10
+     - Server Remote
+   * - 30.10
+     - internet macht stress
 
