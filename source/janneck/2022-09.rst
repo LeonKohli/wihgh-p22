@@ -24,4 +24,4 @@
    * - 29.09
      - Projektmanagement Gundlagen mit SCRUM
    * - 30.09
-     -
+     - Brainwriting übung zu den Spielen vom vortag

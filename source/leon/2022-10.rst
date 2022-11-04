@@ -13,3 +13,13 @@ Oktober 2022
      - Hyperaktiver Hamster im Kornfeld
    * - 12.10
      - Java in VSCode
+   * - 13.10
+     - Alle Features der GitHub Student Plattform entdeckt
+   * - 14.10
+     - Homeoffice
+   * - 17.10
+     - Laptops auseinandergebaut
+   * - 18.10
+     - Weitere ekelhafte Laptops auseinandergebaut
+
+
