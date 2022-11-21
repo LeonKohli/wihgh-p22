@@ -20,4 +20,10 @@
    * - 17.10 - 25.10
      - Krank sein ist langweilig
    * - 26.10 - 04.11
-     - Zeitmanagement ist wichtig; Die Rolle des Moderators liegt mir ganz gut  
+     - Zeitmanagement ist wichtig; Die Rolle des Moderators liegt mir ganz gut
+   * - 07.11 - 11.11
+     - school is boring
+   * - 14.11 - 18.11
+     - Urlaub war cool; Simson S50 Technik
+   * - 21.11 
+     - Virtuelle Maschine zum Programmieren sehr vorteilhaft in der Idee 
