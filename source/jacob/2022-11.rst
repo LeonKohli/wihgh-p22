@@ -1,0 +1,28 @@
+=============
+November 2022
+=============
+
+.. list-table:: November
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 01.11
+     - Server zusammenbauen  
+   * - 02.11
+     - Server einstellen
+   * - 03.11
+     - Server einrichten 
+   * - 04.11
+     - Große Präsentation Server Initialisierung Alpha (SIA) 
+   * - 07.11
+     - OSZ ist echt langweilig
+   * - 08.11 
+     - Schule ist easy
+   * - 09.11
+     -  Free Noten
+   * - 10.11
+     - LF5 ist einfach nur Quatsch
+   * - 11.11
+     - Die Lehrerin in LF5 ist mega lost
