@@ -1,0 +1,18 @@
+================
+ Oktober 2022
+================
+
+.. list-table:: Oktober
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 07.11 - 11.11
+     - school is boring
+   * - 14.11 - 18.11
+     - Urlaub war cool; Simson S50 Technik
+   * - 21.11 
+     - Virtuelle Maschine zum Programmieren sehr vorteilhaft in der Idee
+   * - 22.11
+     - Masse an Ämtern, Ministerien; Landesverwaltungsorganisation und ihre Geschichte
