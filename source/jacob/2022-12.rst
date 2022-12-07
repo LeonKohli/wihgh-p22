@@ -1,0 +1,20 @@
+=============
+Dezember 2022
+=============
+
+.. list-table:: Dezember
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 01.12
+     - Krank
+   * - 02.12
+     - Krank 
+   * - 05.12
+     - Minecraftserver erstellt
+   * - 06.12
+     - Java server erstellt
+   * - 07.12
+     - einfach Minecraft zocken
