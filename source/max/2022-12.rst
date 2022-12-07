@@ -1,0 +1,16 @@
+================
+ Dezember 2022
+================
+
+.. list-table:: Oktober
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 28.11 - 2.12
+     - Schule ist langweilig, Ich bin vom Gymnasium gut vorberreitet worden
+   * - 05.12
+     - Server in Java, GPTChat AI
+   * - 06.12
+     - Threads, parallele Prozesse 

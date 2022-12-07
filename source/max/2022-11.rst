@@ -1,5 +1,5 @@
 ================
- Oktober 2022
+ November 2022
 ================
 
 .. list-table:: Oktober
@@ -16,3 +16,9 @@
      - Virtuelle Maschine zum Programmieren sehr vorteilhaft in der Idee
    * - 22.11
      - Masse an Ämtern, Ministerien; Landesverwaltungsorganisation und ihre Geschichte
+   * - 23.11
+     - Derzeitiger Stand der IT in der Verwaltung
+   * - 24.11 
+     - Einsatz von KI in der Verwltung möglich, Live Karte der VBB
+   * - 25.11
+     - EventHandler, ActionListner und FocusListener in Java  
