@@ -14,3 +14,11 @@
      - Server in Java, GPTChat AI
    * - 06.12
      - Threads, parallele Prozesse 
+   * - 07.12
+     - GPTChat AI
+   * - 08.12
+     - Zelluläre Automaten
+   * - 9.12
+     - Ich hasse dem Java Hamster 
+   * - 12.12
+     - VBA Editor, Funktionen und Subs
