@@ -22,3 +22,13 @@
      - Ich hasse dem Java Hamster 
    * - 12.12
      - VBA Editor, Funktionen und Subs
+   * - 13.12
+     - Boot Stick für zuhause
+   * - 14.12
+     - Zelluläre Automaten 
+   * - 15.12
+     - Ereingnissprozeduren in VBA
+   * - 16.12
+     - UserForms in VBA 
+   * - 19.12 - 15.12
+     - Ne Grippe ist serh doof, vorallem vor Silvester und Weihnachten
