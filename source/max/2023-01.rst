@@ -17,4 +17,4 @@
    * - 09.01
      - Python kann unter Umständen sehr nervig sein 
    * - 10.01
-     - Überlegung des Versuchs ein Spiel mit Unity und C# zu programmieren  
+     - Überlegung des Versuchs ein Spiel mit Unity und C# zu programmieren, WIHGH in C# GUI als Einstieg für GUIs in C#  
