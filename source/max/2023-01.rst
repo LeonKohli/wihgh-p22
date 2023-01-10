@@ -16,3 +16,5 @@
      - Farbmanipulation in der Powershell, Skripte
    * - 09.01
      - Python kann unter Umständen sehr nervig sein 
+   * - 10.01
+     - Überlegung des Versuchs ein Spiel mit Unity und C# zu programmieren  
