@@ -1,0 +1,34 @@
+================
+ Dezember 2022
+================
+
+.. list-table:: Oktober
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 28.11 - 2.12
+     - Schule ist langweilig
+   * - 05.12
+     - Server in Java, GPTChat AI
+   * - 06.12
+     - Threads, parallele Prozesse 
+   * - 07.12
+     - GPTChat AI
+   * - 08.12
+     - Zelluläre Automaten
+   * - 9.12
+     - Ich hasse dem Java Hamster 
+   * - 12.12
+     - VBA Editor, Funktionen und Subs
+   * - 13.12
+     - Boot Stick für zuhause
+   * - 14.12
+     - Zelluläre Automaten 
+   * - 15.12
+     - Ereignisprozeduren in VBA
+   * - 16.12
+     - UserForms in VBA 
+   * - 17.12 - 19.12
+     - ähhh

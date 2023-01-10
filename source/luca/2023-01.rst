@@ -1,0 +1,22 @@
+================
+ Januar 2023
+================
+
+.. list-table:: Januar 2023
+   :widths: 10 80
+   :header-rows: 1
+
+   * - Datum
+     - Anmerkung
+   * - 03.01
+     - Subtraktion in Binären Zahlen, Floating Point Zahlen, Unicode und Zeichensätze
+   * - 04.01
+     - Linux Verzeichnisbaum, OS-Installationen dauern ewig
+   * - 05.01
+     - Farbmanipulation in der Powershell, Skripte 
+   * - 06.01
+     -
+   * - 09.01
+     -
+   * - 10.01
+     -
